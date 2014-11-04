@@ -16,6 +16,6 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_label" product="tablet" msgid="9194799012395299737">"Konfigurasi Rangkaian Mudah Alih"</string>
-    <string name="app_label" product="default" msgid="4282451239358791628">"Storan Telefon/Pemesejan"</string>
+    <string name="app_label" product="tablet" msgid="9194799012395299737">"মোবাইল নেটওয়ার্ক কনফিগারেশন"</string>
+    <string name="app_label" product="default" msgid="4282451239358791628">"ফোন/বার্তা প্রেরণের সঞ্চয়স্থান"</string>
 </resources>
